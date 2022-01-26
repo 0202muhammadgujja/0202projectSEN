@@ -1,0 +1,208 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 100%;
+    background: rgba(0,0,0,0.7)url(img/background6.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 220vh;
+    background-blend-mode: darken;
+
+    
+
+}
+.navbar{
+    width: 12oopx;
+    height: 75px;
+    margin:auto;
+    color: rgb(7, 14, 1);
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+
+}
+.logo{
+    color: rgb(143, 141, 137);
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 15px;
+    float: left;
+    padding-top: 10px;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+    
+}
+
+ul{
+    float: left; 
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    font-size: 20px;
+
+}
+
+ul li a:hover{
+    color: rgb(80, 94, 80);
+}
+
+.search{
+    width: 330px;;
+    float: left;
+    margin-left: 270px;
+
+
+}
+
+.srch{
+    font-family: 'Times New Roman';
+    width: 202px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid rgb(34, 23, 4);
+    margin-top: 13px;
+    color: white;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 15px;
+    border-bottom-left-radius: 5px;
+    border: top left radius 5px;
+
+}
+.btn{
+    width: 100px;
+    height: 40px;
+    background: rgb(77, 76, 74);
+    border: 2px solid rgb(31, 21, 4);
+    margin-top: 13px;
+    color: white;
+    font-size: 13px;
+    border-bottom-right-radius: 5px;
+
+}
+
+.btn :focus{
+    outline: none;
+}
+srch :focus{
+    outline: none;
+
+
+}
+
+.content{
+   color: blanchedalmond;
+    font-size: 1.0rem;
+    font-family: Arial;
+    padding-left: 15px;
+    text-align: left;
+    
+
+    
+}
+.about{
+    color: blanchedalmond;
+    font-size: xx-large;
+    font-family: Arial;
+    padding-left: 15px;
+    text-align: left;
+    
+    
+
+}
+.contact{
+    color: blanchedalmond;
+    font-size: xx-large;
+    font-family: Arial;
+    padding-left: 15px;
+    text-align: left;
+}
+.services{
+    color: blanchedalmond;
+    font-size: xx-large;
+    font-family: Arial;
+    padding-left: 15px;
+    text-align: left;
+}
+    
+}
+    
+
+.navbar{
+    width: 12oopx;
+    height: 75px;
+    margin:auto;
+    color: rgb(7, 14, 1);
+}
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+
+}
+.logo{
+    color: rgb(143, 141, 137);
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 15px;
+    float: left;
+    padding-top: 10px;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+    
+}
+
+ul{
+    float: left; 
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+ul li{
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+    font-size: 20px;
+
+}
+
+ul li a:hover{
+    color: rgb(80, 94, 80);
+}
+
